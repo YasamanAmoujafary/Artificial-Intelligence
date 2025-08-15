@@ -15,7 +15,7 @@ Each assignment covers a different topic in AI, gradually introducing core conce
 4. **CA4 — Neural Networks**  
    - Introduction to deep learning concepts and implementing feed-forward/backpropagation networks.  
 5. **CA5 — Clustering**  
-   - Unsupervised learning techniques such as k-means and hierarchical clustering.  
+   - Unsupervised learning techniques such as k-means, DBScan and hierarchical clustering.  
 
 ## 🛠️ Technologies & Libraries  
 - Python 3.x  
